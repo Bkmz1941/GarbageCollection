@@ -1,5 +1,9 @@
+import persons.Person;
+//import skills.Skill;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Person.writeTest();
+//        Skill.doSomething();
     }
 }
